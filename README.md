@@ -1,0 +1,3 @@
+# Wykorzystane biblioteki
+* Flask
+* SQLAlchemy
